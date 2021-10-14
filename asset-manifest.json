@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.24cfc44e.chunk.css",
+    "main.js": "/portfolio/static/js/main.c17a5e8d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c17a5e8d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.5ac95381.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5ac95381.js.map",
+    "static/css/2.963e7036.chunk.css": "/portfolio/static/css/2.963e7036.chunk.css",
+    "static/js/2.339c3bb6.chunk.js": "/portfolio/static/js/2.339c3bb6.chunk.js",
+    "static/js/2.339c3bb6.chunk.js.map": "/portfolio/static/js/2.339c3bb6.chunk.js.map",
+    "static/js/3.56a1dbb2.chunk.js": "/portfolio/static/js/3.56a1dbb2.chunk.js",
+    "static/js/3.56a1dbb2.chunk.js.map": "/portfolio/static/js/3.56a1dbb2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.963e7036.chunk.css.map": "/portfolio/static/css/2.963e7036.chunk.css.map",
+    "static/css/main.24cfc44e.chunk.css.map": "/portfolio/static/css/main.24cfc44e.chunk.css.map",
+    "static/js/2.339c3bb6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.339c3bb6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/portfolio/static/media/project.f5644f94.jpg",
+    "static/media/email.b317b6de.png": "/portfolio/static/media/email.b317b6de.png",
+    "static/media/bootstrap.min.css": "/portfolio/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/phone.fbc5aefe.png": "/portfolio/static/media/phone.fbc5aefe.png",
+    "static/media/proj_img.584921d0.png": "/portfolio/static/media/proj_img.584921d0.png",
+    "static/media/proj_rest.be0d4563.png": "/portfolio/static/media/proj_rest.be0d4563.png",
+    "static/media/proj_slam.861a3fd9.png": "/portfolio/static/media/proj_slam.861a3fd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac95381.js",
+    "static/css/2.963e7036.chunk.css",
+    "static/js/2.339c3bb6.chunk.js",
+    "static/css/main.24cfc44e.chunk.css",
+    "static/js/main.c17a5e8d.chunk.js"
+  ]
+}
