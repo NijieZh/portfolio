@@ -11,7 +11,7 @@ export default function Navigation() {
                     <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 text-right">
                         <div class="primary-nav">
                             <ul>
-                                <li onClick={()=>history.push('/home')}>Home</li>
+                                <li onClick={()=>history.push('/portfolio')}>Home</li>
                                 <li onClick={()=>history.push('/projects')}>Portfolio</li>
                                 <li onClick={()=>history.push('/contact')}>Contact</li>
                             </ul>
