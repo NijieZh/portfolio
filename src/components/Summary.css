@@ -4,13 +4,12 @@
     background-attachment: fixed;
     background-attachment: center center;
     color: white;
-    padding: 60px 30px;
   }
   
   .summary .row {
-    padding: 50px 10%;
-    margin:50px 120px;
-    width: 100%;
+    padding: 10px;
+    margin:10% 20%;
+    width: 80%;
   }
   
   .summary h3 {
@@ -21,7 +20,7 @@
   }
 
   .summary .description {
-    margin-left: 20px;
+    margin: 10px;
   }
   
   
