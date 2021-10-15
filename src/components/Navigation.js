@@ -12,7 +12,7 @@ export default function Navigation() {
                         <div class="primary-nav">
                             <ul>
                                 <li onClick={()=>history.push('/')}>Home</li>
-                                <li onClick={()=>history.push('/portfolio')}>Portfolio</li>
+                                <li onClick={()=>history.push('/projects')}>Portfolio</li>
                                 <li onClick={()=>history.push('/contact')}>Contact</li>
                             </ul>
                         </div>
