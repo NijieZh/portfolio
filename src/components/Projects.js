@@ -1,4 +1,5 @@
-import CarouselComponent from "./CarouselComponent"
+import CarouselComponent from "./CarouselComponent";
+import "./Project.css";
 
 export default function Projects() {
     return (

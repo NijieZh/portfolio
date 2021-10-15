@@ -1,0 +1,27 @@
+.summary {
+    background: linear-gradient(rgba(250, 250, 250, 0.1), rgba(250, 246, 250, 0.1)),
+      url("../images/project.jpg");
+    background-attachment: fixed;
+    background-attachment: center center;
+    color: white;
+    padding: 60px 30px;
+  }
+  
+  .summary .row {
+    padding: 50px 10%;
+    margin:50px 120px;
+    width: 100%;
+  }
+  
+  .summary h3 {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+  }
+  .summary p {
+    font-family: "Roboto", Helvetica, serif;
+  }
+
+  .summary .description {
+    margin-left: 20px;
+  }
+  
+  

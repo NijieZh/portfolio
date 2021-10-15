@@ -11,8 +11,8 @@ export default function Home() {
         <div>
             <Navigation/>
             <Main/>
-            <Summary/>
             <Projects/>
+            <Summary/>
             <Contact/>
         </div>
     )

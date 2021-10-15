@@ -1,62 +1,40 @@
-
+import "./Summary.css";
 
 export default function Summary() {
     return (
         <div class="summary">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="development-summary">
-                            <div class="col-sm-1 col-md-1">
-                                <div class="development-img">
-                                    <image class="img-responsive" src="./images/developerdesign.svg"/>
-                                </div>
-                            </div>
-
+                        <div class="description">
                             <div class="col-sm-4 col-md-4">
                                 <div class="development-description">
-                                    <h3>Development and Design</h3>
-                                    <p>I aim to put my creativity to the test, designing and building unique, meaningful products for clients or merely for my own interests.</p>
+                                    <h3>ACV Auction - Market Report</h3>
+                                    <p>Market Report helps users quickly gain access to all of the information they need to research and pricetheir vehicles correctly.  It provides history and active records with a variety of filters that helps clientsnarrow down to a specific target.  Users are also able to view details of the vehicles</p>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="responsive-summary">
-                            <div class="col-sm-1 col-md-1 col-sm-offset-2 col-md-offset-2">
-                                <div class="responsive-img">
-                                    <image class="img-responsive" src="./images/responsivedesign.svg"/>
-                                </div>
-                            </div>
-
-                            <div class="col-sm-4 col-md-4">
+                        <div class="description">
+                             <div class="col-sm-4 col-md-4">
                                 <div class="responsive-description">
-                                    <h3>Responsive Layouts</h3>
-                                    <p>Development and design isn't merely putting information on the site or preferred media outlet. I organize content and present information in an engaging fashion, driving new and unique layouts in tandem with novel solutions and cool animations.</p>
+                                    <h3>Restaurant Recommendation</h3>
+                                    <p>A yelp-like browser-based application helps people search restaurant based on location, categary, keyword and provides different filters to get their target restaurant quickly. People can also store the restaurants they like in their accounts.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="row">
-                        <div class="ideas-summary">
-                            <div class="col-sm-1 col-md-1">
-                                <div class="idea-img">
-                                    <image class="img-responsive" src="./images/innovativesolutions.svg"></image>
-                                </div>
-                            </div>
-
+                        <div class="description">
                             <div class="col-sm-4 col-md-4">
                                 <div class="idea-description">
-                                    <h3>Ideas and Solutions</h3>
-                                    <p>There are still many problems that exist in today's society, including laziness. Luckily, I hope to combat these issues by innovating, developing easy-to-use programs, solutions, or products.</p>
+                                    <h3> ABELMed Mobile </h3>
+                                    <p>ABELMed Mobile is a browser-based application that allows clients to access theirmedical practice Information, view their scheduled appointments, review planned treatment, consultnotes and flags from patient records, and contact physicians anytime, from Anywhere. </p>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="passion-summary">
-                            <div class="col-sm-1 col-md-1 col-sm-offset-2 col-md-offset-2">
-                                <image class="img-responsive" src="./images/passion.svg"/>
-                            </div>
-
+                        <div class="description">
                             <div class="col-sm-4 col-md-4">
                                 <div class="passion-description">
                                     <h3>Passion and Dedication</h3>

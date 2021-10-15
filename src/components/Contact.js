@@ -1,5 +1,6 @@
 import email from "../images/email.png";
-import phone from "../images/phone.png"
+import phone from "../images/phone.png";
+import "./Contact.css";
 export default function Contact() {
     return (
         <div className="contact" id="contact">

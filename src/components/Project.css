@@ -1,0 +1,51 @@
+.projects {
+  background: linear-gradient(rgba(212, 212, 212, 0.5), rgba(207, 205, 207, 0.5)),
+    url("../images/project.jpg");
+  background-attachment: fixed;
+  background-attachment: left center;
+  color: white;
+  padding: 60px 30px;
+}
+.banner-buttons .btn-border,
+  .projects .btn-border {
+    background-color: transparent;
+    min-width: 100%;
+    margin-top: 40px;
+    color: rgb(51, 49, 49);
+    font-family: "Roboto", Helvetica, serif;
+    font-size: 1.2em;
+    border-radius: 0;
+    border: 2px solid rgb(51, 49, 49);
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    -ms-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+  }
+  
+  .banner-buttons .btn-border:hover,
+  .projects .btn-border:hover {
+    border: 2px solid rgb(51, 49, 49);
+    background-color: white;
+  }
+  
+  
+  .projects-header-quote {
+    margin-bottom: 20px;
+  }
+  .projects h1,
+  .projects h3 {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+  }
+  .projects p {
+    font-family: "Roboto", Helvetica, serif;
+    padding: 0 10px;
+  }
+  
+  .projects-header-quote {
+    font-style: italic;
+  }
+  
+  
+  
+ 

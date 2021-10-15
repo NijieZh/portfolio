@@ -1,4 +1,4 @@
-
+import "./Main.css";
 
 export default function Main() {
     return (
@@ -60,8 +60,8 @@ export default function Main() {
                                     <h2>Things beyond frontend</h2>
                                     <br/>
                                     <p>Experience in different industries</p>
-                                    <p>Loves to learn new things</p>
                                     <p>Data Mining and Machine Learning</p>
+                                    <p>Computer Vision and Image Processing</p>
                                     <p>Cognitive research and psychological assessment</p>
                                 </div>
                             </div>

@@ -1,0 +1,10 @@
+.carousel-container {
+    position: relative;
+    width: 70%;
+    height: 800px;
+    margin-left:15%;
+  }
+.carousel-container .carousel
+.slide img {
+                height: 100%;
+            }

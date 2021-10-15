@@ -1,4 +1,5 @@
 import { useHistory } from "react-router-dom";
+import "./Navigation.css";
 
 export default function Navigation() {
     let history = useHistory();

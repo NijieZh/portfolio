@@ -1,0 +1,29 @@
+.navigation {
+    position: absolute;
+    width: 100%;
+    padding: 10px 0px;
+    background: linear-gradient(rgba(10, 10, 10, 0.1), rgba(10, 10, 10, 0.1));
+  }
+  .primary-nav {
+    margin-top: 8px;
+  }
+
+  .primary-nav li {
+    display: inline-block;
+    margin: 0px 20px;
+    font-size: 15pt;
+    color: rgb(51, 49, 49);
+    padding-bottom: 5px;
+    -webkit-transition: border 50ms linear;
+    -moz-transition: border 50ms linear;
+    -o-transition: border 50ms linear;
+    -ms-transition: border 50ms linear;
+    transition: border 50ms linear;
+  }
+  .primary-nav li:hover {
+    text-decoration: none;
+    font-weight:bold;
+    cursor: pointer;
+    color: rgb(51, 49, 49);
+  }
+  
