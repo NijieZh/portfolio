@@ -37,8 +37,8 @@ export default function Summary() {
                         <div class="description">
                             <div class="col-sm-4 col-md-4">
                                 <div class="passion-description">
-                                    <h3>Passion and Dedication</h3>
-                                    <p>With my profound interest and commitment to my field of study, my projects rarely go unfinished and my problems are never left unresolved. </p>
+                                    <h3>Financial Reporting</h3>
+                                    <p>Financial Reporting is a data reporting, consolidating and forecastingplatform for business intelligence and data analysis which consolidates all financial and operationaldata from multiple systems/sources with multiple currencies and presents it in user-friendlydashboards, financial reports, and ratios.   </p>
                                 </div>
                             </div>
                         </div>
